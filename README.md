@@ -11,13 +11,13 @@ Hi, I'm **Mikaal**, a game and web developer passionate about building interacti
 - **Type:** React / JavaScript  
 - **Description:** Classic whack-a-mole game, fully interactive.  
 - **Status:** Published  
-- [Play it here](https://MikFlurry.github.io/WHACKAMOLE)  
+- [Play it here](https://mikflurry1.github.io/WhackAmole/)  
 
 ### 🐱 CatClicker-ReactGame
 - **Type:** React / JavaScript  
 - **Description:** Click cats to score points in this fun React game.  
 - **Status:** Published  
-- [Play it here](https://MikFlurry.github.io/CatClicker-ReactGame)  
+- [Play it here](https://mikflurry1.github.io/CatClicker-ReactGame/)  
 
 ### 🌐 MikFlurry1.github.io
 - **Type:** TypeScript / React  
@@ -75,3 +75,4 @@ Hi, I'm **Mikaal**, a game and web developer passionate about building interacti
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikFlurry1&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=MikFlurry1)  
 [![Trophy](https://github-profile-trophy.vercel.app/?username=MikFlurry1&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=MikFlurry1)
+
