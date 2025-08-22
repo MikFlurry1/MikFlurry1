@@ -15,7 +15,6 @@ Hi, I'm **Mikaal**, a game and web developer passionate about building interacti
 </td>
 </tr>
 </table>
----
 
 ## 🚀 Featured Projects
 
@@ -91,6 +90,7 @@ Hi, I'm **Mikaal**, a game and web developer passionate about building interacti
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikFlurry1&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=MikFlurry1)  
 [![Trophy](https://github-profile-trophy.vercel.app/?username=MikFlurry1&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=MikFlurry1)
+
 
 
 
