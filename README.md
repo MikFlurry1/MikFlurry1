@@ -25,6 +25,12 @@ Hi, I'm **Mikaal**, a game and web developer passionate about building interacti
 - **Status:** Published  
 - <a href="https://MikFlurry1.github.io" target="_blank">View Portfolio</a>  
 
+### 😂 Random Joke Generator
+- **Type:** React / JavaScript  
+- **Description:** A fun app that fetches random jokes and lets you save your favorites.  
+- **Status:** Published  
+- <a href="https://mikflurry1.github.io/randomjokegenerator/" target="_blank">Try it here</a>  
+
 ### 🐍 SimpleGames
 - **Type:** Python  
 - **Description:** Collection of simple Python games I’ve made.  
@@ -34,14 +40,12 @@ Hi, I'm **Mikaal**, a game and web developer passionate about building interacti
 - **Type:** Python  
 - **Description:** A survival game where you control a dot and avoid obstacles.  
 - **Status:** Public  
-
 ---
 
 ## 💡 About Me
 - 🔭 Currently creating games and web projects  
 - 🌱 Learning **advanced React, TypeScript, and Python projects**  
-- 💬 Ask me about **game dev, Minecraft, and coding challenges**  
-- 😄 Pronouns: He / Him  
+- 💬 Ask me about **game dev, Rocket Leuge, and coding challenges**  
 - ⚡ Fun fact: I love making interactive and visually appealing projects  
 
 ---
