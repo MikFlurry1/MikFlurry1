@@ -1,7 +1,7 @@
-# Hello World! <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="120px" style="vertical-align:middle;">
+# Hello World! 
 ![](https://komarev.com/ghpvc/?username=MikFlurry1&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-Hi, I'm **Mikaal**, a game and web developer passionate about building interactive projects in **React**, **TypeScript**, and **Python**.  
+Hi, I'm **Mikaal**, a game and web developer passionate about building interactive projects in **React**, **TypeScript**, and **Python**.  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="120px" style="vertical-align:middle;">
 
 
 ---
@@ -76,6 +76,7 @@ Hi, I'm **Mikaal**, a game and web developer passionate about building interacti
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikFlurry1&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=MikFlurry1)  
 [![Trophy](https://github-profile-trophy.vercel.app/?username=MikFlurry1&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=MikFlurry1)
+
 
 
 
