@@ -3,7 +3,6 @@
 
 Hi, I'm **Mikaal**, a game and web developer passionate about building interactive projects in **React**, **TypeScript**, and **Python**.  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="120px" style="vertical-align:middle;">
 
-
 ---
 
 ## 🚀 Featured Projects
@@ -12,19 +11,19 @@ Hi, I'm **Mikaal**, a game and web developer passionate about building interacti
 - **Type:** React / JavaScript  
 - **Description:** Classic whack-a-mole game, fully interactive.  
 - **Status:** Published  
-- [Play it here](https://mikflurry1.github.io/WhackAmole/)  
+- <a href="https://mikflurry1.github.io/WhackAmole/" target="_blank">Play it here</a>  
 
 ### 🐱 CatClicker-ReactGame
 - **Type:** React / JavaScript  
 - **Description:** Click cats to score points in this fun React game.  
 - **Status:** Published  
-- [Play it here](https://mikflurry1.github.io/CatClicker-ReactGame/)  
+- <a href="https://mikflurry1.github.io/CatClicker-ReactGame/" target="_blank">Play it here</a>  
 
-### 🌐 MikFlurry1.github.io
+### 🌐 MikFlurry1.github.io (My portfolio)
 - **Type:** TypeScript / React  
 - **Description:** My personal portfolio website showcasing my projects.  
 - **Status:** Published  
-- [View Portfolio](https://MikFlurry1.github.io)  
+- <a href="https://MikFlurry1.github.io" target="_blank">View Portfolio</a>  
 
 ### 🐍 SimpleGames
 - **Type:** Python  
@@ -50,13 +49,13 @@ Hi, I'm **Mikaal**, a game and web developer passionate about building interacti
 ## 📫 How to Reach Me
 
 <p align="center">
-  <a href="https://github.com/MikFlurry1">
+  <a href="https://github.com/MikFlurry1" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/github--v1.png" height="60" style="margin: 0 25px;"/>
   </a>
-  <a href="https://discord.com/">
+  <a href="https://discord.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/discord-logo.png" height="60" style="margin: 0 25px;"/>
   </a>
-  <a href="https://twitter.com/">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" height="60" style="margin: 0 25px;"/>
   </a>
 </p>
@@ -76,7 +75,5 @@ Hi, I'm **Mikaal**, a game and web developer passionate about building interacti
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikFlurry1&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=MikFlurry1)  
 [![Trophy](https://github-profile-trophy.vercel.app/?username=MikFlurry1&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=MikFlurry1)
-
-
 
 
